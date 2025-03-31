@@ -1,0 +1,7 @@
+{
+  "url": "/api/mst/getLocalizeTextMstListDefaultAndClientDefined",
+  "status": 200,
+  "payload": {
+    "mstList": []
+  }
+}
